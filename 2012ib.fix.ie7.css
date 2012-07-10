@@ -23,19 +23,20 @@ div.grid_183 {margin:33px 4px 8px 5px;}
 /************* BUTTON STYLE ************/
 div.marginleftNews {margin-left:6px;}
 
+/************** HEADER GRID ****************/
+div.grid_183 {margin-top:3px; margin-right:5px; margin-bottom:8px; margin-left:4px;}
+
 /************** ABOUT ECFMG TOOLTIP ***********************/
-div.ttAbout div.tooltipmenu {padding:27px 0 0 15px; width:768px;}
-div.ttAbout div.tooltipmenu div.twentyfive-twentyfive {width:187px; height:70px;}
-div.ttAbout div.tooltipmenu div.twentyfive-twentyfive a div.aboutoverview {width:187px; height:35px;}
-div.ttAbout div.tooltipmenu div.twentyfive-twentyfive a div.aboutecfmg h5 {width:186px; margin:8px 0 auto 20px;}
-div.ttAbout div.tooltipmenu div.twentyfive-twentyfive a div.svmpecfmg {width:186px; height:35px;} 
-div.ttAbout div.tooltipmenu div.twentyfive-twentyfive a div.svmpecfmg h5.svmp {margin:0 0 auto 20px;}
-div.ttAbout div.tooltipmenu div.twentyfive-twentyfive a div.aboutannualreport {width:186px; height:35px;} 
-div.ttAbout div.tooltipmenu div.twentyfive-twentyfive a div.organizational {width:188px; height:35px;} 
-div.ttAbout div.tooltipmenu div.twentyfive-twentyfive a div.trustees {width:187px; height:34px;} 
-div.ttAbout div.tooltipmenu div.twentyfive-twentyfive a div.seniorstaff {width:186px; height:34px;} 
-div.ttAbout div.tooltipmenu div.twentyfive-twentyfive a div.history {width:186px; height:34px;} 
-div.ttAbout div.tooltipmenu div.twentyfive-twentyfive a div.careers {width:188px; height:34px; overflow:hidden;} 
+div.ttAbout div.tooltipmenu div.thirty-three a div.aboutoverview {cursor:pointer;}
+div.ttAbout div.tooltipmenu div.thirty-three a div.svmpecfmg {height:35px; cursor:pointer;} 
+div.ttAbout div.tooltipmenu div.thirty-three a div.svmpecfmg h5.svmp {margin:0 0 auto 20px;}
+div.ttAbout div.tooltipmenu div.thirty-three a div.aboutannualreport {height:35px; cursor:pointer;} 
+div.ttAbout div.tooltipmenu div.thirty-three a div.organizational {cursor:pointer;} 
+div.ttAbout div.tooltipmenu div.thirty-three a div.trustees {height:35px; cursor:pointer;} 
+div.ttAbout div.tooltipmenu div.thirty-three a div.seniorstaff {height:35px; cursor:pointer;} 
+div.ttAbout div.tooltipmenu div.thirty-three a div.initiatives {cursor:pointer;} 
+div.ttAbout div.tooltipmenu div.thirty-three a div.history {height:35px; cursor:pointer;} 
+div.ttAbout div.tooltipmenu div.thirty-three a div.careers {height:35px; cursor:pointer;}
 
 /*********************** PROGRAMS TOOLTIP STYLES *************************/  
 div.ttPrograms div.tooltipmenu {padding:27px 0 0 15px; width:770px; height:313px;}/* was 235 */

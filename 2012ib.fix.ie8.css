@@ -50,10 +50,11 @@ div.ttPrograms div.tooltipmenu div.fifty-fifty {width:375px; float:left; height:
 div.ttPrograms div.tooltipmenu div.fifty-fifty a div.certification {width:375px; height:68px; cursor:pointer;}
 div.ttPrograms div.tooltipmenu div.fifty-fifty a div.cvs {width:375px; height:70px; cursor:pointer;}
 div.ttprograms div.tooltipmenu div.fifty-fifty a div.eras {width:375px; height:77px; cursor:pointer;}
-div.ttPrograms div.tooltipmenu div.fifty-fifty a div.j1 {width:375px; height:64px; cursor:pointer;}
+div.ttPrograms div.tooltipmenu div.fifty-fifty a div.evsp {width:375px; height:64px; cursor:pointer;}
 div.ttprograms div.tooltipmenu div.fifty-fifty a div.eics {width:374px; height:68px; cursor:pointer;}
 div.ttPrograms div.tooltipmenu div.fifty-fifty a div.echo {width:374px; height:70px; cursor:pointer;}
 div.ttprograms div.tooltipmenu div.fifty-fifty a div.usmle {width:374px; height:77px; cursor:pointer;}
+div.ttPrograms div.tooltipmenu div.fifty-fifty a div.programsoverview {height:63px; width:374px; cursor:pointer;}
 
 /************* ONLINESERVICES TOOLTIP STYLES ************/
 div.ttOnlineservices div.tooltipmenu {width:770px;}
@@ -83,4 +84,4 @@ div.ttResources div.tooltipmenu div.thirtythree a div.behavior h5.header {margin
 div.ttResources div.tooltipmenu div.annualreport {height:167px;}
 div.ttResources div.tooltipmenu div.data {width:300px; float:left; height:160px; margin:0;}
 div.ttResources div.tooltipmenu div.data a div.imagelink {height:168px; width:310px; cursor:pointer; text-decoration:none;}
-div.ttResources div.tooltipmenu a.roverview {float:right; margin:-6px 0 0 0; padding:0 10px 0 0;}
+div.ttResources div.tooltipmenu a div.roverview {width:760px; height:30px; cursor:pointer; margin:-1px 0 0 0;}
